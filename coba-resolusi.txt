@@ -2,3 +2,7 @@ RESOLUSI COBA :
 # Menambhkan sesuatu untuk dicoba 13
 # Mnambah Foto Profil
 #Menambah Fitur Tambah Data
+# Menambah Fitur Edit Data
+# Menambah Fitur Tambah Data
+# Menambah Fitur Hapus Data
+#Menambha Umpa data
