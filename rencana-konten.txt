@@ -1,4 +1,11 @@
 Rencana Konten :
 # membuat konten jaavascript 
+  - membuat code script
+  - membuat fungsi
+  - membuat variabel 
 # membuat konten PHP
+  - membuat variabel
+  - membuat fungsi masing-masing method
+  - menampilkan data pada view
 # membuat konten CSS
+  -membuat desain html login
