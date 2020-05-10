@@ -1,2 +1,2 @@
 # punyaku-resolusi
-Repository latihan
+Repository latihan mengelola GITHUB
